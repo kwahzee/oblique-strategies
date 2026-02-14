@@ -1,0 +1,1 @@
+A digital implementation of Brian Eno and Peter Schmidt's Oblique Strategies - a problem-solving tool featuring one hundred and thirteen prompts designed to break creative blocks and inspire new approaches to artistic challenges.
